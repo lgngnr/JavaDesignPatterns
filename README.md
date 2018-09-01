@@ -4,4 +4,4 @@ The project contains the following Design Patterns:
 3. Factory Method
 4. i) Prototype ii) Prototype Reflection API Version
 5. Singleton
-5. Adapter
+5. Adapter 
