@@ -5,3 +5,4 @@ The project contains the following Design Patterns:
 4. i) Prototype ii) Prototype Reflection API Version
 5. Singleton
 6. Adapter 
+7. Bridge
