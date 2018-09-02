@@ -1,0 +1,1 @@
+Aggiunge dinamicamente responsabilita' addizionali ad un oggetto. In questo modo si possono estendere le funzionalita' senza modificare le classi
