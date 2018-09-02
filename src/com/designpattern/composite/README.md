@@ -1,0 +1,1 @@
+Consente la costruzione di gerarchie di oggetti composti. Gli oggetti possono essere conformati da oggetti singoli oppure da altri oggetti composti. Si pensi ad un computer di cui e' composto da oggetti singoli come il monitor o la tastiera oppure di oggetti composti come l'unita' centrale formata da oggetti sinoli come cpu, ram, ecc

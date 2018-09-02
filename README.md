@@ -6,3 +6,4 @@ The project contains the following Design Patterns:
 5. Singleton
 6. Adapter 
 7. Bridge
+8. Composite
