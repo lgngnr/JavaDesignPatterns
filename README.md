@@ -9,3 +9,4 @@ The project contains the following Design Patterns:
 8. Composite
 9. Decorator
 10. Flyweight
+11. Proxy
